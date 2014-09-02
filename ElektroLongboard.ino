@@ -1,9 +1,13 @@
 /*
- Barrett Anderies
- March 11, 2013
- This is a modified version of the PS3BT.ino example sketch by Kristian Lauszus
- For more information visit his blog: http://blog.tkjelectronics.dk/ or 
- send him an e-mail:  kristianl@tkjelectronics.com
+ Original example by:
+   Barrett Anderies
+   March 11, 2013
+ Modified by:
+   Kristian Lauszus
+   For more information visit his blog: http://blog.tkjelectronics.dk/ or 
+   send him an e-mail:  kristianl@tkjelectronics.com
+ Modified for ElektroLongboard by:
+   Sniser, Bouni
  */
 
 #include <PS3BT.h>                                                    //Include the necessary libraries.
